@@ -1,5 +1,4 @@
 title: Francisco M. Cocco
-description: 4th Year PhD Candidate in Economics at Princeton University
 
 remote_theme: pages-themes/minimal@v0.2.0
 
@@ -7,3 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 show_downloads: false
+
+github:
+  is_user_page: false
+  is_project_page: false
