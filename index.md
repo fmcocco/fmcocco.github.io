@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a 4th year PhD Candidate in Economics at Princeton University. This is my <a href="/fc_cv.pdf" target="_blank">CV</a> and and my email is fmcocco@princeton.edu. 
+I am a 4th year PhD Candidate in Economics at Princeton University. This is my <a href="/fc_cv.pdf" target="_blank" style="color:#267CB9; text-decoration:underline;">CV</a> and and my email is fmcocco@princeton.edu. 
 
 ## Working Papers
 
