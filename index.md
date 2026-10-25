@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a 4th year PhD Candidate in Economics at Princeton University. This is my <a href="/fc_cv.pdf" target="_blank" style="color:#267CB9; text-decoration:underline;">CV</a> and you can contact me at fmcocco@princeton.edu. 
+I am a 4th year PhD Candidate in Economics at Princeton University. My interests are in macroeconomics, finance and trade. You can find my CV <a href="/fc_cv.pdf" target="_blank" style="color:#267CB9; text-decoration:underline;">here</a> and you can contact me at fmcocco@princeton.edu. 
 
 ### Working Papers
 
